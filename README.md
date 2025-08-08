@@ -7,12 +7,13 @@ Secret Bookmark is a lightweight Chrome extension that lets you save web pages f
 
 ## How to Use
 
-1. Download this folder to your computer  
-2. Open Chrome and go to `chrome://extensions/`  
-3. Turn on Developer Mode (top right)  
-4. Select Load unpacked  
-5. Choose the secret_bookmark folder  
-6. The extension will now appear in your browser toolbar
+1. Download this folder to your computer (It will be a zip)
+2. Unzip it and you will get a folder named secret-bookmark-chrome-extension-main
+3. Open Chrome and go to `chrome://extensions/`  
+4. Turn on Developer Mode (top right)  
+5. Select Load unpacked  
+6. Choose the secret-bookmark-chrome-extension-main folder  
+7. The extension will now appear in your browser toolbar
 
 ## Features
 
