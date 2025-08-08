@@ -1,7 +1,7 @@
 # 🔐 Secret Bookmark Chrome Extension
 
 > 🚧 Work in Progress  
-> Created as part of the Scrimba JavaScript course. This version is currently under development and will be improved as new techniques are learned.
+> Created as part of the Scrimba JavaScript course. This version is currently under development.
 
 Secret Bookmark is a lightweight Chrome extension that lets you save web pages for later. You can add a link manually or save the current tab with one click. Your data is stored locally on your device for privacy and persistence.
 
