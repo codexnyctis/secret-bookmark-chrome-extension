@@ -47,7 +47,6 @@ Tabs permission to save the current tab
 Allow deleting individual links  
 Add option to export and import leads  
 Add optional password protection  
-Cloud backup using a service like Firebase  
 Dark mode and smoother interface
 
 ## Credits
